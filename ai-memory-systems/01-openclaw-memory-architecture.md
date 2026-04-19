@@ -41,7 +41,7 @@
 └─────────────────────────────────────────────────────┘
 ```
 
-![三层记忆架构图 - YouMind Nano Banana 生成](./youmind-diagram.jpg)
+![三层记忆架构图 - YouMind Nano Banana 生成](./memory-3layer-arch.jpg)
 
 OpenClaw 是这套三层模型的典型实现：
 
