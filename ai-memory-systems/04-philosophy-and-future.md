@@ -4,6 +4,8 @@
 
 ---
 
+![OpenClaw vs Hermes 设计哲学对比图](./openclaw-vs-hermes.jpg)
+
 ## 一、两种哲学，两种世界观
 
 聊技术之前，先说点更本质的——OpenClaw 和 Hermes 在记忆这件事上的设计思路，根子上就不一样。

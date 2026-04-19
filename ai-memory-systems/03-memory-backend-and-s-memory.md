@@ -22,6 +22,8 @@ OpenClaw 默认使用内置 SQLite 后端，零配置就能跑起来。但不同
 
 ---
 
+![记忆后端对比图](./memory-backends.jpg)
+
 ## 二、Builtin 后端：SQLite 向量存储
 
 内置记忆引擎基于 SQLite，支持三种检索模式：
