@@ -1,4 +1,4 @@
-![Harness 工程实战](./ai-memory-systems/harness-robot-working.jpg)
+![Harness 工程实战](../ai-memory-systems/harness-robot-working.jpg)
 
 # Harness 工程实战（一）：为什么模型不是壁垒，基础设施才是
 
